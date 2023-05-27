@@ -50,6 +50,4 @@ Download data Holiday-Packages-Prediction (Kaggle) [here](https://www.kaggle.com
 
 ## Machine Learning Modelling & Evaluation
 
--Fatimah Azzahra Ashari
--fatimah.ashr30@gmail.com
 
