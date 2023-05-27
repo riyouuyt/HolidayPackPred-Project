@@ -1,4 +1,4 @@
-# Holiday Packages Prediction using Machine Leraning
+# Holiday Packages Prediction using Machine Learning
 
 
 ## Prerequisites
@@ -36,4 +36,20 @@ Download data Holiday-Packages-Prediction (Kaggle) [here](https://www.kaggle.com
 - `NumberOfChildren` : Total number of children with age less than 5 planning to take the trip with the customer
 - `Designation` : Designation of the customer in the current organization
 - `MonthlyIncome` : Gross monthly income of the customer 
+
+## EDA & Business insight
+
+- **Descriptive Statistics**
+- **Univariate Analysis**
+- **Multivariate Analysis**
+
+## Data Preprocessing
+
+- **Data Cleansing**
+- **Feature Engineering**
+
+## Machine Learning Modelling & Evaluation
+
+-Fatimah Azzahra Ashari
+-fatimah.ashr30@gmail.com
 
